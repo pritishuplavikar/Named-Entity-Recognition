@@ -1,1 +1,1 @@
-# Resume-NER
+# Named Entity Recognition
